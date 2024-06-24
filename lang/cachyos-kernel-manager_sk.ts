@@ -268,7 +268,7 @@
     <message>
         <location filename="../src/km-window.ui" line="116"/>
         <source>sched-ext scheduler config</source>
-        <translationn>konfigurácia ched-ext plánovača</translation>
+        <translationn>konfigurácia sched-ext plánovača</translation>
     </message>
     <message>
         <location filename="../src/km-window.ui" line="123"/>
